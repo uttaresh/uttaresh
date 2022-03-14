@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uttaresh
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning more coding
+- 👀 I’m interested in coding and software
+- 🌱 I’m currently learning about algorithms, making up for not having a CS degree
 - 📫 Reach out to me on LinkedIn
 
 <!---
